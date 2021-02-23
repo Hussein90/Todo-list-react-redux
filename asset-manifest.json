@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Hussein90/Todo-list-react-redux/static/css/main.a0d194bc.chunk.css",
+    "main.js": "/Hussein90/Todo-list-react-redux/static/js/main.7429a38e.chunk.js",
+    "main.js.map": "/Hussein90/Todo-list-react-redux/static/js/main.7429a38e.chunk.js.map",
+    "runtime-main.js": "/Hussein90/Todo-list-react-redux/static/js/runtime-main.1aa40dd6.js",
+    "runtime-main.js.map": "/Hussein90/Todo-list-react-redux/static/js/runtime-main.1aa40dd6.js.map",
+    "static/js/2.033aa176.chunk.js": "/Hussein90/Todo-list-react-redux/static/js/2.033aa176.chunk.js",
+    "static/js/2.033aa176.chunk.js.map": "/Hussein90/Todo-list-react-redux/static/js/2.033aa176.chunk.js.map",
+    "static/js/3.f799b7f2.chunk.js": "/Hussein90/Todo-list-react-redux/static/js/3.f799b7f2.chunk.js",
+    "static/js/3.f799b7f2.chunk.js.map": "/Hussein90/Todo-list-react-redux/static/js/3.f799b7f2.chunk.js.map",
+    "index.html": "/Hussein90/Todo-list-react-redux/index.html",
+    "static/css/main.a0d194bc.chunk.css.map": "/Hussein90/Todo-list-react-redux/static/css/main.a0d194bc.chunk.css.map",
+    "static/js/2.033aa176.chunk.js.LICENSE.txt": "/Hussein90/Todo-list-react-redux/static/js/2.033aa176.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1aa40dd6.js",
+    "static/js/2.033aa176.chunk.js",
+    "static/css/main.a0d194bc.chunk.css",
+    "static/js/main.7429a38e.chunk.js"
+  ]
+}
